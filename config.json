@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "book-catalog-with-sqlite",
+      "title": "Book Catalog with SQLite",
+      "description": "Build a persistent command-line book catalog using Python and SQLite.",
+      "path": "assignments/book-catalog-with-sqlite",
+      "dueDate": "2026-09-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
